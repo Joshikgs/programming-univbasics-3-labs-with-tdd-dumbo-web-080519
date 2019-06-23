@@ -1,7 +1,7 @@
 # Add your variables here
 first_number = 1
 
-
+second_number = 2
 
 
 # Code your solution in calculator.rb
